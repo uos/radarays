@@ -7,4 +7,4 @@ Please reference the following papers when using RadaRays in your scientific wor
 
 Links:
 - Library + Experiments: https://github.com/uos/radarays_ros
-- Gazebo Plugin: https://github.om/uos/radarays_gazebo_plugins
+- Gazebo Plugin: https://github.com/uos/radarays_gazebo_plugins
